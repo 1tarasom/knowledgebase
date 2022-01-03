@@ -7,14 +7,14 @@ module.exports = {
     {
       resolve: "gatsby-source-contentful",
       options: {
-        accessToken: "CFPAT-qcuP-yXXv63Sy04Kf_EaQPDEjWdd-M4JizI7WVLl5H0",
-        spaceId: "",
+        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+        spaceId: process.env.CONTENTFUL_SPACE_ID,
       },
     },
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
-        trackingId: "298202019",
+        trackingId: process.env.GA_TRACKING_ID,
       },
     },
     "gatsby-plugin-react-helmet",
