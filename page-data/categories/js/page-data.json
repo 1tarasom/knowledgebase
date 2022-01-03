@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-categories-contentful-category-slug-tsx",
+    "path": "/categories/js/",
+    "result": {"data":{"contentfulCategory":{"slug":"js","name":"JS"}},"pageContext":{"id":"ec174e84-e5e9-5a88-92fa-a47ddc5f2bfc","slug":"js","__params":{"slug":"js"}}},
+    "staticQueryHashes": []}

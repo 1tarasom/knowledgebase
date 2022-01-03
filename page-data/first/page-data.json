@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-contentful-post-slug-tsx",
+    "path": "/first/",
+    "result": {"data":{"contentfulPost":{"slug":"first","title":"First Post","body":{"raw":"{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"content\":[{\"nodeType\":\"text\",\"value\":\"Let's do it.\",\"marks\":[],\"data\":{}}],\"data\":{}},{\"nodeType\":\"paragraph\",\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}],\"data\":{}},{\"nodeType\":\"paragraph\",\"content\":[{\"nodeType\":\"text\",\"value\":\"This is a code\",\"marks\":[{\"type\":\"code\"}],\"data\":{}}],\"data\":{}}]}"},"categories":[{"name":"JS"}]}},"pageContext":{"id":"031190c8-18b0-55b9-9fb7-95f4c9f9c694","slug":"first","__params":{"slug":"first"}}},
+    "staticQueryHashes": []}

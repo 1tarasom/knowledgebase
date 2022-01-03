@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkknowledge_base=self.webpackChunkknowledge_base||[]).push([[197],{999:function(e,t,n){n.r(t);var l=n(7294);t.default=function(e){var t=e.data;return l.createElement("main",null,l.createElement("h1",null,t.contentfulPost.slug),l.createElement("p",null,t.contentfulPost.title))}}}]);
+//# sourceMappingURL=component---src-pages-contentful-post-slug-tsx-0c9f3786794416f57f73.js.map

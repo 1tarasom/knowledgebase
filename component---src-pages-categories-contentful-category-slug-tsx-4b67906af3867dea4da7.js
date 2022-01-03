@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkknowledge_base=self.webpackChunkknowledge_base||[]).push([[92],{1622:function(e,n,t){t.r(n);var l=t(7294);n.default=function(e){var n=e.data;return l.createElement("main",null,l.createElement("h1",null,n.contentfulCategory.slug),l.createElement("p",null,n.contentfulCategory.name))}}}]);
+//# sourceMappingURL=component---src-pages-categories-contentful-category-slug-tsx-4b67906af3867dea4da7.js.map
